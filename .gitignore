@@ -1,0 +1,4 @@
+*.pyc
+build/
+splunkstorm.egg-info/
+dist
