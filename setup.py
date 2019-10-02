@@ -11,6 +11,6 @@ setup(
     url='https://github.com/kelonye/python-splunkstorm',
     packages=['splunkstorm',],
     package_dir = {'splunkstorm': 'lib'},
-    install_requires = ['requests==2.2.1'],
+    install_requires = ['requests==2.20.0'],
     license='MIT License',
     zip_safe=True)
